@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  .cabecalhoo > p {
+    @apply inline p-28
+    
+  }
+
+body {
+  background-color: black;
+  color: white; 
+  
+}
+
+
+    }
+  
+  
+
